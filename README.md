@@ -1,6 +1,6 @@
 # nanoFramework Driver for the 74HC595 Shift Register
 
-[Source Code](https://github.com/Dweaver309/Shift-Register-74HC595/blob/Images/ShiftRegisterFritzing.png)
+[Source Code](https://github.com/Dweaver309/Shift-Register-74HC595/tree/Source_Code)
 
 
 ![ScreenShot](https://github.com/Dweaver309/Shift-Register-74HC595/blob/Images/ShiftRegisterFritzing.png)
@@ -12,13 +12,10 @@
 
 
 
-
-You can find the video for the fritzing diagram above [here](https://github.com/Dweaver309/nf-Community-Contributions/blob/master/drivers/Shift-Register-74HC595/Images/ShiftRegister.MOV).
-
-
 ## The hardware
 
-![ScreenShot](https://github.com/Dweaver309/nf-Community-Contributions/blob/master/drivers/Shift-Register-74HC595/Images/74HC595Pins.png)
+![ScreenShot](https://github.com/Dweaver309/Shift-Register-74HC595/blob/Images/74HC595Pins.png
+)
 
 - The Q0 to Q7 pins are the new output pins they are in reverse order Q7 is Pin 0 and Q0 is Pin 7
 

@@ -5,7 +5,7 @@
 
 ![ScreenShot](https://github.com/Dweaver309/Shift-Register-74HC595/blob/Images/ShiftRegisterFritzing.png)
 
-# Shift Register Tutoral
+# Shift Register Tutorial
 
 
 **74HC595** shift register enables up to 8 additional output ports using only three ports from the device. More ports can be added by "daisy chaining" more chips. 
